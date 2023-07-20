@@ -8,7 +8,7 @@
 
 <p align="justify">Hello everyone, my name is Murilo dionísio, and I am a student of Analysis and Development of Systems. With a strong academic background and a interest in software development, I am eager to contribute my skills and knowledge to a dynamic and challenging work environment. 
 <br>
- Passionate about arts and technology, some of my hobbies are games, watching, reading.</p>
+ Passionate about technology, some of my hobbies are games, watching and program in arduino.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
