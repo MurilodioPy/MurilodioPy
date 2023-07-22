@@ -11,8 +11,8 @@
 <br>
  Passionate about technology, some of my hobbies are games, watching and program in arduino.</p>
 
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=5de4a8)](https://murilodioPy.github.io/)
-[![GitHub Page](https://img.shields.io/badge/murilodioPy.github.io-000?style=for-the-badge)](https://murilodioPy.github.io/)
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=5de4a8)](https://github.com/MurilodioPy/)
+[![GitHub Page](https://img.shields.io/badge/murilodioPy.github.io-000?style=for-the-badge)](https://github.com/MurilodioPy/)
 
 <h3 align="left">Connect with me</h3>
 
