@@ -7,7 +7,7 @@
     <span>Murilo Dionísio</span>
 </h1>
 
-<p align="justify">Hello everyone, my name is Murilo dionísio, and I am a student of Analysis and Development of Systems. With a strong academic background and a interest in software development, I am eager to contribute my skills and knowledge to a dynamic and challenging work environment. 
+<p align="justify">Hello everyone, my name is Murilo Dionísio, and I am a student of Analysis and Development of Systems. With a strong academic background and a interest in software development, I am eager to contribute my skills and knowledge to a dynamic and challenging work environment. 
 <br>
  Passionate about technology, some of my hobbies are games, watching and program in arduino.</p>
 
